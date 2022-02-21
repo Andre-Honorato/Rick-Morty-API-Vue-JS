@@ -1,5 +1,7 @@
 # rick_morty_api
 
+Aplicação rodando: https://vuerickmortyapi.netlify.app/
+
 ## Project setup
 ```
 yarn install
